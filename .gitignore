@@ -1,0 +1,11 @@
+# .gitignore
+# Ignore environment folders
+.venv/
+venv/
+learn-env/
+
+# Ignore data folders if large
+data/
+
+# Ignore typical OS files
+.DS_Store
