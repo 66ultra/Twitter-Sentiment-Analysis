@@ -1,0 +1,36 @@
+# =========================
+
+# -------------------------
+# System & OS Files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Jupyter Notebook Checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Virtual Environments (Python)
+# -------------------------
+venv/
+env/
+*.pyc
+__pycache__/
+
+# -------------------------
+# Large Data Files
+# -------------------------
+data/raw/
+data/processed/
+
+# -------------------------
+# Logs & Temp Files
+# -------------------------
+logs/
+*.log
+*.out
+*.tmp
+
+# =========================
