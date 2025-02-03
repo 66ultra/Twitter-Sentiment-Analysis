@@ -89,7 +89,7 @@ The final model provides a robust tool for sentiment analysis, offering insights
 Explore the full analysis in:
 
 - [Notebook](notebook.ipynb)
-- [Presentation PDF](presentation.pdf)
+- [Presentation PDF](nlp-presentation.pdf)
 
 For questions, contact Noah Meakins | <unknownerror66@outlook.com>
 
