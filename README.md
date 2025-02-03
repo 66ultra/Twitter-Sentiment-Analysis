@@ -3,6 +3,8 @@
 **Author: Noah Meakins**
 **Phase: Phase 4**
 
+![Positive Negative Neutral](images/sourced-images/positive-negative-neutral.png)
+
 ---
 
 ## **Overview**
@@ -152,7 +154,8 @@ The **Fourth Run: Refined Deep Learning Model** was selected as the final model 
 **Sentiment Distribution**
 ![Sentiment Distribution](images/Sentiment-Scores-by-Product-v2.png)
 
-Number 
+**Number of Tweets by Product**
+![Number of Tweets by Product](images/Number-of-Tweets-by-Product.png)
 
 **Confusion Matrix of Final Model**
 ![Confusion Matrix of Final Model](images/model-fourth-run-heatmap.png)
@@ -213,7 +216,8 @@ Please review my full analysis in [my jupiter notebook](notebook.ipynb) or [PDF 
 ├── data                                 <- Folder containing dataset used for analysis
 │   ├── raw                              <- Folder containing raw dataset
 │   ├──├─Brands and Product Emotions.csv <- Raw dataset from source
-├── images                               <- Folder containing any images used or generated in the analysis
+├── images                               <- Folder containing any images sourced or generated in the analysis
+│   ├── sourced-images                   <- Images sourced from the internet for borders in README and notebook.ipynb
 ├── PDF                                  <- PDF folder for any PDF files used
 │   ├── presentation.pdf                 <- PDF version of project presentation
 ├── .gitignore                           <- File for ignoring large or unwanted files in git
