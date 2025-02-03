@@ -1,7 +1,7 @@
 # **Natural Language Processing Twitter Sentiment Analysis on Apple and Google Products**
 
-**Author: Noah Meakins**
-**Phase: Phase 4**
+- **Author: Noah Meakins**
+- **Phase: Phase 4**
 
 ![Positive Negative Neutral](images/sourced-images/positive-negative-neutral.png)
 
