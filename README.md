@@ -104,7 +104,7 @@ For questions, contact Noah Meakins | <unknownerror66@outlook.com>
 ├── images                               <- Folder containing any images sourced or generated in the analysis
 │   ├── sourced-images                   <- Images sourced from the internet for borders in README and notebook.ipynb
 ├── PDF                                  <- PDF folder for any PDF files used
-│   ├── presentation.pdf                 <- PDF version of project presentation
+│   ├── nlp-presentation.pdf             <- PDF version of project presentation
 ├── .gitignore                           <- File for ignoring large or unwanted files in git
 ├── notebook.ipynb                       <- Jupiter Notebook where analysis was completed
 ├── README.md                            <- The top-level README for reviewers of this project
