@@ -208,6 +208,8 @@ This project demonstrates the power of machine learning and NLP in providing act
 
 Please review my full analysis in [my jupiter notebook](notebook.ipynb) or [PDF presentation]().
 
+For any additional questions, please contact Noah Meakins | <unknownerror66@outlook.com>
+
 ---
 
 ## Repository Structure
